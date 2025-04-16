@@ -26,13 +26,13 @@ To get started, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone 
+   git clone https://github.com/NQubiashvili/Scandiweb-Test-2025.git
    ```
 
 2. **Navigate to the Project Directory:**
 
    ```bash
-   cd scandiweb-junior-full-stack-test-assignment
+   cd Scandiweb-Test-2025
    ```
 
 3. **Install Dependencies:**
